@@ -31,6 +31,9 @@ public class Lab033_Char_Literals {
         System.out.println("Balwant"+carriage_return+"Wangikar");
         System.out.println("Balwant\tWangikar");
 
+        char my_laugh_smiley= '\u1f60';
+        System.out.println(my_laugh_smiley);
+
     }
 
 

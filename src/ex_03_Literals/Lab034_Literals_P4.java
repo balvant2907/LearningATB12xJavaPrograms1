@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab033_Literals_P4 {
+public class Lab034_Literals_P4 {
     public static void main(String[] args) {
         int age=56;
         //decimal system
